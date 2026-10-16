@@ -1,3 +1,19 @@
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+section h2 {
+    font-size: 24px;
+}
+
+section p {
+    font-size: 16px;
+}
+section a {
+    text-decoration: none;
 body {
     font-family: Arial, sans-serif;
     margin: 0;

@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    background-color: #333;
+    color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.membre {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.membre h2 {
+    font-size: 24px;
+}
+
+.membre p {
+    font-size: 16px;
+}
+
+.membre a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}

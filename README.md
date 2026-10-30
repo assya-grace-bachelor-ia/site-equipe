@@ -18,3 +18,7 @@ Créer un site de présentation de notre équipe en utilisant Git, GitHub et VS 
 
 - Assya
 - Grace
+## réalisation
+Ce projet a été réalisé en équipe avec Git et GitHub
+
+
